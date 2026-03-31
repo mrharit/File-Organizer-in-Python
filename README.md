@@ -1,5 +1,5 @@
 # 📂 File Organizer in Python
-### Mini Project 2
+### Mini Project 
 
 ---
 
